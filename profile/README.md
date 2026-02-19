@@ -98,7 +98,7 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 ## 🤝 加入我们 / Join Us / 参加方法
 
 - 点击右上角 **Watch** / **Star** 关注组织动态。
-- 加入我们的 QQ 群 / Discord（链接见组织首页），与其他开发者实时交流。
+- 加入我们的 QQ 群 / Discord（官网链接见组织首页），与其他开发者实时交流。
 - 参与技术讨论，分享你的经验和作品。
 
 **加入前请确认**：
