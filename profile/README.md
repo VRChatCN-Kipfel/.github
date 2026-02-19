@@ -116,7 +116,7 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 - 📖 **文档完善**：帮助我们改进 README、Wiki 或翻译。
 - 🎨 **模型/资源贡献**：请确保资源可开源，并附上使用许可。
 
-所有贡献者请遵守我们的[行为准则](CODE_OF_CONDUCT.md)，让猫窝保持和谐友爱。
+所有贡献者请遵守我们的[行为准则](https://cn-kipfel.xchen.link/utils/rules.html)，让猫窝保持和谐友爱。
 
 ---
 
