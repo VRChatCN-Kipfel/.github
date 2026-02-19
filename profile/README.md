@@ -18,6 +18,25 @@
 
 ---
 
+## ⚠️ 重要提醒 / Important Notice / 重要なお知らせ
+
+根据 **[もち山金魚用户协议](https://mukumi.booth.pm/)**：
+
+- ✅ **允许**：个人使用、修改、制作服饰、用于视频/直播、制作周边
+- ❌ **禁止**：二次公开发布模型文件（无论是否修改）、供第三方下载、二次出售
+- ❌ **禁止**：用于淫秽色情、暴力内容、政治宗教活动
+
+请所有成员仔细阅读[完整协议](https://mukumi.booth.pm/)，共同维护创作者的权益。
+
+---
+
+## 📌 版权标记 / Credit / クレジット
+
+**Original Model**: [@mukumi](https://twitter.com/mukumi) / [Booth](https://mukumi.booth.pm/)  
+**Suggested Tags**: #七山金鱼 #mochiyama #Kipfel
+
+---
+
 ## 📢 关于我们 / About Us / 私たちについて
 
 ### 中文
@@ -53,7 +72,8 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 | 工具开发 | C#, Python, VRChat OSC, 插件开发 |
 | 资源与优化 | 模型减面、贴图压缩、性能优化技巧 |
 
-我们欢迎任何与 VRChat 开发相关的技术讨论与合作！
+我们欢迎任何与 VRChat 开发相关的技术讨论与合作！  
+**重要提示**：所有关于模型本身的修改讨论，仅限于**个人使用范围内**，严禁分享修改后的模型文件。
 
 ---
 
@@ -61,7 +81,17 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 
 - **开源项目协作**：共同开发 VRChat 世界、Avatar、实用工具，项目均可在本组织仓库中找到。
 - **代码审查与互助**：在 PR 中互相审查代码，共同提升代码质量。
-- **模型/资源库**：收集并整理 Kipfel 相关的 ~~免费/开源模型、贴图、动画等~~ 资源。
+
+---
+
+
+## 🎨 作品展示 / Showcase / 作品紹介
+
+我们鼓励成员在遵守协议的前提下展示自己的创作：
+
+- 📸 **截图分享**：在 VRChat 中的 Kipfel 穿搭、自定义服饰效果
+- 🎥 **视频作品**：使用 Kipfel 制作的短视频、直播录像
+- 🛠️ **工具开发**：不包含模型文件的辅助工具（如 OSC 控制器、动画预设）
 
 ---
 
@@ -69,9 +99,11 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 
 - 点击右上角 **Watch** / **Star** 关注组织动态。
 - 加入我们的 QQ 群 / Discord（链接见组织首页），与其他开发者实时交流。
-- 直接 Fork 项目并提交 Pull Request，任何贡献都欢迎！
+- 参与技术讨论，分享你的经验和作品。
 
-无论你是经验丰富的开发者，还是刚入门的新手，只要热爱 Kipfel 并愿意学习，这里都有你的位置 🐱
+**加入前请确认**：
+1. 你已经通过正规渠道（[Booth](https://mukumi.booth.pm/)）购买了 Kipfel 模型
+2. 你愿意遵守原始用户协议，不进行公开分享
 
 ---
 
@@ -88,6 +120,10 @@ If you love Kipfel and are passionate about VRChat development, welcome home �
 
 ---
 
-**🐾 用代码为 Kipfel 猫猫搭建一个更棒的世界！**  
-**🐾 Let's build a better world for Kipfel cats with code!**  
-**🐾 コードで Kipfel 猫ちゃんのためにもっと素敵な世界を作ろう！**
+**🐾 用代码为 Kipfel 猫猫搭建一个更棒的世界！**<br>**🐾 用技术表达对 Kipfel 的喜爱，同时尊重每一位创作者！**  
+**🐾 Let's build a better world for Kipfel cats with code!**<br>**🐾 Show your love for Kipfel through technology, and respect every creator!**  
+**🐾 コードで Kipfel 猫ちゃんのためにもっと素敵な世界を作ろう！**<br>**🐾 技術で Kipfel への愛を表現し、すべてのクリエイターを尊重しよう！**
+
+---
+
+
