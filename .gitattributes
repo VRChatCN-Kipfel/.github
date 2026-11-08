@@ -1,0 +1,11 @@
+# 批量脚本必须用 CRLF：cmd 解析带括号的多行块时，LF-only 的 .bat 会把
+# `%%~F` 这类写法解析错，直接报 “path operator in batch-parameter substitution
+# is invalid”。
+*.bat text eol=crlf
+
+# shell 脚本必须是 LF，否则 bash 会报 `$'\r': command not found`。
+*.sh text eol=lf
+
+# 证书是二进制安全的 PEM，别让 git 动它的换行。
+*.pem text eol=lf
+*.crt text eol=lf
